@@ -1,0 +1,10 @@
+{
+  "name": "ledjay/wp-theme-skeleton",
+  "description": "huhu",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "require": {
+  "php": ">=5.5",
+  "composer/installers": "~1.0.12"
+  }
+}
